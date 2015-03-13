@@ -1170,7 +1170,7 @@
 
 	#footer {
 		/*min-height: 100vh;*/
-		padding: 0 0 9em 0;
+		/*padding: 0 0 9em 0;*/
 		position: relative;
 		text-align: center;
 	}
@@ -1185,7 +1185,7 @@
 			bottom: 2em;
 			color: rgba(255, 255, 255, 0.5);
 			left: 0;
-			position: absolute;
+			/*position: absolute;*/
 			text-align: center;
 			width: 100%;
 		}
