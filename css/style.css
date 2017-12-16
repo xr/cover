@@ -39,7 +39,7 @@ ul li {
 
 hr {
 	border: 0;
-	max-width: 400px;
+	max-width: 320px;
 	margin-left: 0;
     border-bottom: 1px dashed #ccc;
     background: #999;
@@ -58,7 +58,7 @@ a:hover {
 
 main {
 	width: 60%;
-	background-color: rgba(255,255,255, 0.5);
+	background-color: rgba(255,255,255, 0);
 	position: absolute;
 	top: 50%;
     left: 50%;
